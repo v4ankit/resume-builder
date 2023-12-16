@@ -1,2 +1,2 @@
 # resume builder
- Web3 Based [ICP] 100% Free Resume Builder
+ Web3 Based [ICP] 100% Free Resume Builder.
